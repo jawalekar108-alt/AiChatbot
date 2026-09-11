@@ -73,3 +73,4 @@ switch back to your real Vercel URL once you're happy.
 `SAMPLE_PRODUCTS` in `lib/webhook-logic.js` is still a hardcoded list. Once
 your real Meta Catalog is live, tell me and I'll wire this to fetch live
 products via the Graph API instead.
+<!-- Trigger Vercel Build -->
